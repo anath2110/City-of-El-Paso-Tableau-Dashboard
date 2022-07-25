@@ -1,2 +1,2 @@
-# TableauCityofElPAsoDashboard
-Designed prototype dashboard for City of El Paso visualizing local businesses' manufacturing capabilities, accurate location details, supply and revenue trends and other such business analytics data. This was a part of my Summer,2020 research assistantship at UTEP.
+# City of El Paso Dashboard 
+A prototype dashboard for City of El Paso designed to visualize local businesses' manufacturing capabilities, accurate location details, supply and revenue trends and other such business analytics data. This was a part of my research assistantship project during the Summer of 2020 at UTEP.
